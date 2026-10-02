@@ -1,0 +1,24 @@
+[
+  {
+    "username": "Kola_1919",
+    "password": "$2a$10$2X4vjlHUcYw6w1W5W2qHWueqQcmRWTtH1UKwO4pgcUnqjWfjMtxH.",
+    "permissions": [
+      "listen",
+      "upload",
+      "delete",
+      "control",
+      "manage"
+    ],
+    "isRoot": true,
+    "createdAt": 1790456605302
+  },
+  {
+    "username": "matvey66652",
+    "password": "$2a$10$TN.qSijGcdKRHWnLSvlunO/3ah9poIg7dDZy9INd2upzmGZguhQ3G",
+    "permissions": [
+      "listen"
+    ],
+    "isRoot": false,
+    "createdAt": 1790457228973
+  }
+]
